@@ -1,0 +1,1 @@
+Coloca tu archivo de audio llamado 'fnf_style_song.wav' en esta misma carpeta antes de subir a GitHub Pages.
